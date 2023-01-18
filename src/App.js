@@ -8,7 +8,7 @@ import  theme  from './theme';
 import Thanks from './components/Thanks'
 import Checkout from './components/Checkout'
 export const config = {
-  endpoint: `http://${ipConfig.workspaceIp}:8082/api/v1`,
+  endpoint: `https://qkart-frontend-pru8.onrender.com/api/v1`,
 };
 
 
